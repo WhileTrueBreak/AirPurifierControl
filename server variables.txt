@@ -1,0 +1,11 @@
+AP#c_Name
+AP#c_PWR
+AP#c_Mode
+AP#c_CL
+AP#c_BtnLight
+AP#c_DisplayIndex
+AP#d_PM25
+AP#d_Allergens
+AP#d_FilterStatus0
+AP#d_FilterStatus1
+AP#d_FilterStatus2
