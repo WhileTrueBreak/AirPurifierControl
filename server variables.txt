@@ -1,11 +1,11 @@
-AP#c_Name
-AP#c_PWR
-AP#c_Mode
-AP#c_CL
-AP#c_BtnLight
-AP#c_DisplayIndex
-AP#d_PM25
-AP#d_Allergens
-AP#d_FilterStatus0
-AP#d_FilterStatus1
-AP#d_FilterStatus2
+AP#c_Name               string
+AP#c_PWR                bool
+AP#c_Mode               int
+AP#c_CL                 bool
+AP#c_BtnLight           bool
+AP#c_DisplayIndex       bool
+AP#d_PM25               int
+AP#d_Allergens          int
+AP#d_FilterStatus0      int
+AP#d_FilterStatus1      int
+AP#d_FilterStatus2      int
