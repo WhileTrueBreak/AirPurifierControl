@@ -1,0 +1,8 @@
+pwr = power
+mode = (AG, T, GT, S)
+cl = child lock
+uil = button lights
+pm25 = PM2.5
+iaql = IAI (Allergens)
+aqit
+ddp = Used Index (IAI)
